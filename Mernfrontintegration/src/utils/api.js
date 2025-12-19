@@ -1,4 +1,4 @@
-export const API = "https://mern-intern-2-gkmj.onrender.com"
+export const API = "https://mern-integration-2-thkn.onrender.com"
 export const products = [
   {
     _id: "1",
